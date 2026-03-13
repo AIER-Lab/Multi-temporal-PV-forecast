@@ -1,1 +1,2 @@
-Please cite this study if you use the code: "Sardarabadi, A., Ardakani, A.H., Matrone, S., Ogliari, E. and Shirazi, E., 2025. Multi-temporal PV power prediction using long short-term memory and wavelet packet decomposition. Energy and AI, p.100540." https://www.sciencedirect.com/science/article/pii/S2666546825000722 
+## Citation
+[1] A. Sardarabadi, A. H. Ardakani, S. Matrone, E. Ogliari and E. Shirazi, *Multi-temporal PV power prediction using long short-term memory and wavelet packet decomposition*. Energy and AI, 21, 100540, doi: [10.1016/j.egyai.2025.100540](https://doi.org/10.1016/j.egyai.2025.100540).
